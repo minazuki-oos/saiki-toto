@@ -9,11 +9,11 @@ public class NameCreateRequest {
         this.familyName = familyName;
     }
 
-    public String getGivenName() {
+    public String getgivenName() {
         return givenName;
     }
 
-    public String getFamilyName() {
+    public String getfamilyName() {
         return familyName;
     }
 }
